@@ -1,0 +1,87 @@
+1 Lionel         Messi      16
+
+2 Paulo          Dybala     2
+
+3 Julian         Alvarez    0
+
+4 Emiliano       Martinez   1
+
+5 Lisandro       Martinez   3
+
+6 Rodrigo        DePaul     4
+
+7 Angel          DiMaria    5
+
+8 Lautaro        Martinez   3
+
+9 Alexis         Mac        0
+
+10 Enzo          Fernandez  0
+
+11 Christian    Romero     1
+
+1 Alex           Telles     2
+
+2 Bremer         Juan       3
+
+3 Dani           Alves      6
+
+4 Danilo         Mati       5
+
+5 Eder           Militao    1
+
+6 Marquinhos    James      0
+
+7 Thiago         Silva      0
+
+8 Antony         Silva      2
+
+9 Gabriel        Jesus      4
+
+10 Gabriel       Martinelli 8
+
+11 Neymar        Martinez   10
+
+1 Benjamin       Lecomte    5
+
+2 Alban          Lafont     4
+
+3 Alphonse       reola       2
+
+4 Steve          Mandanda   0
+
+5 Benoit         Costil     1
+
+6 Mike           Maignan    8
+
+7 William        Saliba     9
+
+8 Axel           Disasi     3
+
+9 Ibrahima       Konate     2
+
+10 Raphael       Varane     7
+
+11 Adil          Rami       4
+
+1 Diogo          Dalot      4
+
+2 Joao           Cancelo    8
+
+3 Nuno           Mendes     3
+
+4 Raphael        Guerreiro  2
+
+5 Ruben          Dias       1
+
+6 Andre          Silva      5
+
+7 Cristiano     Ronaldo    14
+
+8 Goncalo        Ramos      8
+
+9 Joao           Felix      7
+
+10 Rafael        Leao       2
+
+11 Ricardo       Horta      1
